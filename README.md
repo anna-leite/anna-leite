@@ -5,8 +5,8 @@
 
 ## 🚀 A propos de moi 
 
-J'ai commencer par l'Art, des études poussées et piontues durant plus de six ans qui m'ont menée à habiter à Shanghai, à monter des expositions collectives, parsonelles et à publier des textes.
-J'ai également eu divers emplois dans le secteur de la vente ou la restauration, toujours le sourire, toujours le bon conseil, toujours le bon mot.
+J'ai commencer par l'Art, des études poussées et pointues durant plus de six ans qui m'ont menée à habiter à Shanghai, à monter des expositions collectives, personelles et à publier des textes.
+J'ai également eu divers emplois dans le secteur de la vente et la restauration : toujours le sourire, toujours le bon conseil, toujours le bon mot. 😊
 
 
 **Maintenant je suis en formation à l'école la Plateforme.**
