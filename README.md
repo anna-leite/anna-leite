@@ -12,9 +12,15 @@ J'ai également eu divers emplois dans le secteur de la vente ou la restauration
 **Maintenant je suis en formation à l'école la Plateforme.**
 Bientôt en alternance !
 
+## 🛠 Skills
 
+![Ruby](https://img.shields.io/badge/Ruby-débutante-blue)
 
+![HTML](https://img.shields.io/badge/HTML-débutante-blue)
 
+![CSS](https://img.shields.io/badge/CSS-débutante-blue)
+
+![GitHub](https://img.shields.io/badge/GitHub-débutante-red)
 <!--
 **anna-leite/anna-leite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
